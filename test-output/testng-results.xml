@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43452" started-at="2021-09-18T13:50:52Z" finished-at="2021-09-18T13:51:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43452" started-at="2021-09-18T13:50:52Z" finished-at="2021-09-18T13:51:36Z">
+      <class name="com.tests.TS_Register">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.tests.TS_Register@2d554825]" name="beforeClass" is-config="true" duration-ms="28175" started-at="2021-09-18T19:20:52Z" finished-at="2021-09-18T19:21:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="TC_Userid_01()[pri:0, instance:com.tests.TS_Register@2d554825]" name="TC_Userid_01" duration-ms="14820" started-at="2021-09-18T19:21:20Z" finished-at="2021-09-18T19:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_Userid_01 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.tests.TS_Register@2d554825]" name="afterClass" is-config="true" duration-ms="426" started-at="2021-09-18T19:21:35Z" finished-at="2021-09-18T19:21:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.tests.TS_Register -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
