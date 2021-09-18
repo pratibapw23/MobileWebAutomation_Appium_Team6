@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite">
+  <test name="test">
+  
+    <classes>
+       <class name="com.tests.TS_Home"/>
+       <class name="com.tests.TS_Login"/>
+       <class name="com.tests.TS_Register"/>
+      
+       
+    </classes>
+  </test> <!-- Pass_Validate01_testng -->
+</suite> <!-- Suite -->
