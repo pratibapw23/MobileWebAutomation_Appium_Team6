@@ -39,7 +39,7 @@ public class TS_Register {
 		Thread.sleep(3000);
 		
 		driver.findElement(By.xpath("/html/body/form/div/div[11]/input")).click();
-		Thread.sleep(4000);
+		Thread.sleep(5000);
 		
 		assertEquals(driver.getTitle(), "Login to iDrive");
 		System.out.println("User registered successfully");
