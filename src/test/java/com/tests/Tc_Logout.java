@@ -35,8 +35,7 @@ public class Tc_Logout {
 	    String s=driver.findElement(By.xpath("/html/body/div[1]/div/div/form/span")).getText();
 	
         Assert.assertEquals("Welcome",s);
-	  
-	  
+
   }
   @BeforeMethod
   public void beforeMethod() throws MalformedURLException {
